@@ -1,8 +1,10 @@
-### install-arch
+### Install-arch
 
 This is my arch configuration script.
 
-#### dependencies
+#### Dependencies
+
+Install arch linux.
 
 Install git:
 
@@ -13,11 +15,11 @@ sudo pacman -S git
 [Configure sudo](https://wiki.archlinux.org/index.php/sudo#Configuration)
 for your user.
 
-#### installing
+#### Installing
 
 Run:
 
 ```
 git clone git@github.com:phrb/install-arch.git
-./install.sh
+cd install-arch && ./install.sh
 ```
