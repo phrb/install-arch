@@ -13,6 +13,7 @@ WICD_DEST=/etc/wicd
 
 VIM=vim
 ZSH=zsh
+HTOP=htop
 AWESOME=awesome
 PACMAN=pacman
 
@@ -68,6 +69,9 @@ cp $ZSH/.zshrc $VIM/.vimrc ~
 echo "> Moving awesomewm files..."
 cp $AWESOME/rc.lua ~/.config/awesome
 cp $AWESOME/theme.lua ~/.config/awesome/themes/default
+
+echo "> Moving htop files..."
+cp $HTOP/htoprc ~/.config/htop/
 
 echo "> Create chrome download directory..."
 mkdir ~/chr-downloads
