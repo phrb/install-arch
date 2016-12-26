@@ -1,6 +1,6 @@
 ### install-arch
 
-This is my arch installation script.
+This is my arch configuration script.
 
 #### dependencies
 
