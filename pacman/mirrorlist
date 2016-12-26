@@ -1,0 +1,19 @@
+##
+## Arch Linux repository mirrorlist
+## Sorted by mirror score from mirror status page
+## Generated on 2015-10-10
+##
+
+## Score: 1.1, Brazil
+Server = http://archlinux-br.mirror.host1plus.com/$repo/os/$arch
+## Score: 1.3, Brazil
+Server = http://linorg.usp.br/archlinux/$repo/os/$arch
+## Score: 1.4, Brazil
+Server = http://pet.inf.ufsc.br/mirrors/archlinux/$repo/os/$arch
+## Score: 1.7, Brazil
+Server = http://archlinux.c3sl.ufpr.br/$repo/os/$arch
+## Score: 1.9, Brazil
+Server = http://www.las.ic.unicamp.br/pub/archlinux/$repo/os/$arch
+## Score: 2.7, Brazil
+Server = http://archlinux.pop-es.rnp.br/$repo/os/$arch
+

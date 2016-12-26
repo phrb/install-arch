@@ -1,0 +1,15 @@
+dropbox
+google-chrome
+gpgmepp
+libkactivities4
+libkexiv2_4
+libkscreen4
+package-query-git
+pkgtools
+python-llvmlite-git
+python-numba-git
+python2-llvmlite-git
+skype
+strigi
+update-pacman-mirrorlist
+weka
